@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a 2D Game ;)
+- 🌱 I’m currently learning C++ <3
+- 🧑 I'm 15 years old
+
+
 <!--
 **Layttos/Layttos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
