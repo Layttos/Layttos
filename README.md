@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on Aquaria ;)
 - 🌱 I’m currently learning C++ <3
 - 😳 I code in Java, and a bit JavaScript
-- 📫 How to reach me: - Layttos#2500 (Discord)
-                      - Layttoss (Twitter)
+- 📫 How to reach me: Layttos#2500 (Discord) ; Layttoss (Twitter)
 - 🧑 I'm 15 years old
 
 
