@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Aquaria ;)
+#- 🔭 I’m currently working on 
 - 🌱 I’m currently learning C++ <3
 - 😳 I code in Java, and a bit JavaScript
 - 📫 How to reach me: @layttos (Discord) ; Layttoss (Twitter)
