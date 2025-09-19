@@ -2,7 +2,7 @@
 
 <!--- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Go, Java and C <3
-- 😳 I code in Java, and a bit JavaScript
+- 😳 I code in Java, JavaScript. I can do websites too! Also, I try to learn Go.
 - 📫 How to reach me: @layttos (Discord) ; Layttoss (Twitter)
 - 🧑 I'm 18 years old
 
