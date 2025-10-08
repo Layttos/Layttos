@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Go, Java and C <3
 - 🎭 I go by she/her
 - 😳 I code in Java, JavaScript. I can do websites too! Also, I try to learn Go.
-- 📫 How to reach me: @layttos (Discord) ; Layttoss (Twitter)
+- 📫 How to reach me: @layttos (Discord) ; Layttoss (Twitter) ; contact@layttos.dev / louison@ciaokombucha.tv (mail)
 - 🧑 I'm 18 years old
 
 
