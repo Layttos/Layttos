@@ -8,14 +8,20 @@
 <hr>
 
 <div align="center">
-  <span><img width=60 height=60 alt="TwitterIcon" src="assets/x.webp"><a href="https://x.com/Layttoss">X (formerly Twitter)</a></span>&emsp;&emsp;
-  <span><img width=60 height=60 alt="InstagramIcon" src="assets/instagram.png"><a href="https://instagram.com/layttos_s">X (formerly Twitter)</a></span>&emsp;&emsp;
-  <span><img width=60 height=60 alt="DiscordIcon" src="assets/discord.webp">@layttos</span>
-</div><br>
+  <a href="https://x.com/Layttoss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="https://instagram.com/laytt.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"></a>
+  &emsp;
+  <img src="https://img.shields.io/badge/Discord-@layttos-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="32">
+  &emsp;
+  <img src="https://img.shields.io/badge/Signal-layttos.01-3A76F0?style=for-the-badge&logo=signal&logoColor=white" height="32">
+</div>
 
 <p align="center">
-  👋 To introduce myself, I am Louison HACHEMI, 19 years old and a <strong>Computer Science student</strong> at the <a href="https://univ-rouen.fr">University of Rouen-Normandie</a><br>
-  💻 I do code some programs. You can check some in the <a href="https://github.com/Layttos?tab=repositories"><strong>Repository tab</strong></a><br>
-  🎵 You can see the music I'm currently listening to on my <a href="https://last.fm/user/Layttos">Last.FM page</a><br>
-  💬 Do not hesitate to contact me at <a href="mailto:contact@layttos.dev">contact@layttos.dev</a> or <a href="mailto:louison.hachemi@univ-rouen.fr">louison.hachemi@univ-rouen.fr</a>
+  <small>
+    👋 To introduce myself, I am Louison HACHEMI, 19 years old and a <strong>Computer Science student</strong> at the <a href="https://univ-rouen.fr">University of Rouen</a><br>
+    💻 I do code some programs. You can check some in the <a href="https://github.com/Layttos?tab=repositories"><strong>Repository tab</strong></a><br>
+    🎵 You can see the music I'm currently listening to on my <a href="https://last.fm/user/Layttos">Last.FM page</a><br>
+    💬 Do not hesitate to contact me at <a href="mailto:contact@layttos.dev">contact@layttos.dev</a> or <a href="mailto:louison.hachemi@univ-rouen.fr">louison.hachemi@univ-rouen.fr</a>
+  </small>
 </p>
